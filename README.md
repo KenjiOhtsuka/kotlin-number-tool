@@ -21,6 +21,6 @@ repositories {
   maven { url 'https://jitpack.io' }
 }
 dependencies {
-  compile 'com.github.KenjiOhtsuka:kotlin-number-tool:0.1.2'
+  compile 'com.github.KenjiOhtsuka:kotlin-number-tool:0.1.3'
 }
 ```
