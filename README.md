@@ -2,7 +2,9 @@
 
 Tool to convert number to alphabet expression.
 
-[![CircleCI](https://circleci.com/gh/KenjiOhtsuka/kotlin-number-tool/tree/master.svg?style=svg)](https://circleci.com/gh/KenjiOhtsuka/kotlin-number-tool/tree/master) [![Twitter Follow](https://img.shields.io/twitter/follow/escamilloIII.svg?style=social)](https://twitter.com/escamilloIII)
+[![CircleCI](https://circleci.com/gh/KenjiOhtsuka/kotlin-number-tool/tree/master.svg?style=svg)](https://circleci.com/gh/KenjiOhtsuka/kotlin-number-tool/tree/master) V
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/escamilloIII.svg?style=social)](https://twitter.com/escamilloIII)
 
 ## Usage
 
@@ -19,6 +21,6 @@ repositories {
   maven { url 'https://jitpack.io' }
 }
 dependencies {
-  compile 'com.github.KenjiOhtsuka:kotlin-number-tool:0.1.2'
+  compile 'com.github.KenjiOhtsuka:kotlin-number-tool:0.1.3'
 }
 ```
