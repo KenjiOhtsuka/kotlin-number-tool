@@ -2,7 +2,10 @@
 
 Tool to convert number to alphabet expression.
 
-[![CircleCI](https://circleci.com/gh/KenjiOhtsuka/kotlin-number-tool/tree/master.svg?style=svg)](https://circleci.com/gh/KenjiOhtsuka/kotlin-number-tool/tree/master) [![](https://jitpack.io/v/KenjiOhtsuka/kotlin-number-tool.svg)](https://jitpack.io/#KenjiOhtsuka/kotlin-number-tool)
+[![CircleCI](https://circleci.com/gh/KenjiOhtsuka/kotlin-number-tool/tree/master.svg?style=svg)](https://circleci.com/gh/KenjiOhtsuka/kotlin-number-tool/tree/master)
+[![codecov](https://codecov.io/gh/KenjiOhtsuka/kotlin-number-tool/branch/master/graph/badge.svg)](https://codecov.io/gh/KenjiOhtsuka/kotlin-number-tool)
+
+[![](https://jitpack.io/v/KenjiOhtsuka/kotlin-number-tool.svg)](https://jitpack.io/#KenjiOhtsuka/kotlin-number-tool)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/escamilloIII.svg?style=social)](https://twitter.com/escamilloIII)
 
